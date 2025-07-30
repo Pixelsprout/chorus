@@ -1,6 +1,6 @@
 {
   "name": "pixelsprout/laravel-chorus",
-  "description": "A laravel-first sync-engine designed to seamlessly sync subsets of your database to your users' devices, to enable a low-latency web application.",
+  "description": "Laravel Chorus is an event-sourcing based sync-engine designed to sync subsets of your database to your users' on device browser storage, to enable a low-latency web application.",
   "type": "library",
   "license": ["MIT"],
   "require": {
@@ -36,8 +36,8 @@
   },
   "authors": [
     {
-      "name": "Braeden Foster",
-      "email": "braedenleefoster@gmail.com"
+      "name": "Pixelsprout",
+      "email": "support@pixelsprout.dev"
     }
   ],
   "minimum-stability": "dev",
